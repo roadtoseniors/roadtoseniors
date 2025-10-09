@@ -3,6 +3,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student in Moscow</h3>
 
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl4Mnl0Nnk4emI4cTJ6c2pldzJ1eW85ampwazFpN3M2MHJ2NW1hNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZtB2l3jHiJsFa/giphy.gif" width="650" height="420"/>
+</div>
+
 <h2 align = "center">My backend skills<br><br>
 <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src = "https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"><br><br>
